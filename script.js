@@ -228,8 +228,8 @@ function EnemyBomb() {
         context.beginPath();
         context.lineWidth = 6;
         context.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-        context.stroke();
         context.strokeStyle = 'red';
+        context.stroke();
         context.fill();
     }
 }
