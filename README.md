@@ -7,9 +7,9 @@ This is a baby clone of Fruit Ninja Game. All actions in game have a sound effec
 
 
 
-[🔴 Youtube Tutorial Video](https://youtu.be/aMjNGUaldGY?t=846)
+[🔴 Youtube Tutorial Video](https://youtu.be/J3l6f2Qy5oI)
 
-[🔵 Live Project URL](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+[🔵 Live Project URL](https://teenageprogrammer.github.io/Ball-Ninja-Javascript-Game/)
 
 
 
